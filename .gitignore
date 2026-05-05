@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+pyspark-env/
+.venv/
+venv/
+ENV/
+
+# Outputs and caches
+output/
+*.log
+*.tmp
+.pds_synthetic.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
